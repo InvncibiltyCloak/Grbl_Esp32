@@ -1,0 +1,6 @@
+[submodule "libraries/ESP32SSDP"]
+	path = libraries/ESP32SSDP
+	url = https://github.com/luc-github/ESP32SSDP.git
+[submodule "libraries/arduinoWebSockets"]
+	path = libraries/arduinoWebSockets
+	url = https://github.com/Links2004/arduinoWebSockets.git
